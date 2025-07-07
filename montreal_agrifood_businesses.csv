@@ -1,0 +1,244 @@
+business_id,name,naics_code,category,address,borough,latitude,longitude,employees,waste_level,annual_waste_tonnes,seasonal_q1_percent,seasonal_q2_percent,seasonal_q3_percent,seasonal_q4_percent,peak_season
+1,Premier Fruit Co.,311420,Fruit & Vegetable Processing,5192 Boulevard René-Lévesque,Ville-Marie,45.518617,-73.495136,40,High,152,15,25,45,15,Q3
+2,Green Valley Processing,311420,Fruit & Vegetable Processing,5579 Boulevard Saint-Laurent,Verdun,45.539291,-73.929013,107,High,422,15,25,45,15,Q3
+3,Harvest Processing Ltd.,311420,Fruit & Vegetable Processing,1686 Avenue du Mont-Royal,Baie-D'Urfé,45.584323,-73.618883,72,High,307,15,25,45,15,Q3
+4,Montreal Vegetable Co.,311420,Fruit & Vegetable Processing,2434 Rue Wellington,Rosemont–La Petite-Patrie,45.61938,-73.501338,40,High,210,15,25,45,15,Q3
+5,Montreal Food Processing,311420,Fruit & Vegetable Processing,8667 Rue Notre-Dame,Le Plateau-Mont-Royal,45.49823,-73.712374,78,High,219,15,25,45,15,Q3
+6,Quebec Fruit Processing Inc.,311420,Fruit & Vegetable Processing,190 Boulevard René-Lévesque,Côte-des-Neiges–Notre-Dame-de-Grâce,45.423533,-73.483385,70,High,413,15,25,45,15,Q3
+7,Harvest Processing Ltd.,311420,Fruit & Vegetable Processing,3557 Rue Wellington,Dollard-des-Ormeaux,45.559128,-73.677869,70,High,184,15,25,45,15,Q3
+8,Quebec Fruit Processing Inc.,311420,Fruit & Vegetable Processing,8793 Rue Wellington,Côte-des-Neiges–Notre-Dame-de-Grâce,45.459452,-73.946824,79,High,63,15,25,45,15,Q3
+9,Green Valley Processing,311420,Fruit & Vegetable Processing,2613 Rue Wellington,Montréal-Nord,45.644435,-73.824647,149,High,389,15,25,45,15,Q3
+10,Harvest Processing Ltd.,311420,Fruit & Vegetable Processing,776 Avenue Papineau,Dorval,45.479897,-73.631536,54,High,255,15,25,45,15,Q3
+11,Garden Fresh Industries,311420,Fruit & Vegetable Processing,7556 Rue Saint-Denis,Sainte-Anne-de-Bellevue,45.523408,-73.88706,21,High,439,15,25,45,15,Q3
+12,Fresh Start Foods,311420,Fruit & Vegetable Processing,9693 Avenue du Mont-Royal,Pointe-Claire,45.470303,-73.690473,63,High,211,15,25,45,15,Q3
+13,Metro Fruit Processors,311420,Fruit & Vegetable Processing,7630 Avenue des Pins,LaSalle,45.524594,-73.507404,59,High,262,15,25,45,15,Q3
+14,Fresh Valley Foods,311420,Fruit & Vegetable Processing,9269 Rue Sainte-Catherine,Sainte-Anne-de-Bellevue,45.522716,-73.841612,43,High,459,15,25,45,15,Q3
+15,Quebec Produce Processing,311420,Fruit & Vegetable Processing,8685 Boulevard René-Lévesque,Rosemont–La Petite-Patrie,45.689924,-73.670413,60,High,206,15,25,45,15,Q3
+16,Excellence Bakery Inc.,311814,Commercial Bakeries,8007 Boulevard René-Lévesque,Outremont,45.642637,-73.941979,23,Medium,97,20,25,25,30,Q4
+17,Elite Bakery Co.,311814,Commercial Bakeries,5259 Boulevard Décarie,LaSalle,45.524516,-73.830321,95,Medium,17,20,25,25,30,Q4
+18,Quality Bakery Ltd.,311814,Commercial Bakeries,5893 Avenue Papineau,L'Île-Bizard–Sainte-Geneviève,45.621412,-73.586652,55,Medium,37,20,25,25,30,Q4
+19,Commercial Baking Ltd.,311814,Commercial Bakeries,3105 Rue Notre-Dame,Rosemont–La Petite-Patrie,45.6603,-73.662118,62,Medium,32,20,25,25,30,Q4
+20,Choice Bakery Co.,311814,Commercial Bakeries,2732 Boulevard Saint-Laurent,Beaconsfield,45.603964,-73.64038,49,Medium,74,20,25,25,30,Q4
+21,Premium Bakery Ltd.,311814,Commercial Bakeries,3841 Avenue des Pins,Dorval,45.521049,-73.484427,19,Medium,99,20,25,25,30,Q4
+22,Continental Bakery,311814,Commercial Bakeries,6939 Boulevard René-Lévesque,Le Plateau-Mont-Royal,45.478436,-73.849405,23,Medium,88,20,25,25,30,Q4
+23,Executive Bakery Ltd.,311814,Commercial Bakeries,1485 Rue Sainte-Catherine,Sainte-Anne-de-Bellevue,45.533987,-73.967036,65,Medium,72,20,25,25,30,Q4
+24,Supreme Bakery Co.,311814,Commercial Bakeries,5117 Boulevard René-Lévesque,Verdun,45.669771,-73.737561,18,Medium,32,20,25,25,30,Q4
+25,Fresh Loaf Bakery,311814,Commercial Bakeries,4637 Rue Notre-Dame,LaSalle,45.585281,-73.704681,50,Medium,22,20,25,25,30,Q4
+26,Signature Bakery Co.,311814,Commercial Bakeries,3158 Avenue des Pins,Mercier–Hochelaga-Maisonneuve,45.432324,-73.832227,42,Medium,75,20,25,25,30,Q4
+27,Crown Bakery Ltd.,311814,Commercial Bakeries,2694 Avenue des Pins,Côte-des-Neiges–Notre-Dame-de-Grâce,45.591063,-73.829227,42,Medium,37,20,25,25,30,Q4
+28,Executive Bakery Ltd.,311814,Commercial Bakeries,5451 Boulevard Saint-Laurent,Pointe-Claire,45.473348,-73.76758,76,Medium,10,20,25,25,30,Q4
+29,Professional Baking Inc.,311814,Commercial Bakeries,5865 Boulevard René-Lévesque,Dollard-des-Ormeaux,45.476101,-73.762175,17,Medium,79,20,25,25,30,Q4
+30,Luxury Bakery Inc.,311814,Commercial Bakeries,3749 Avenue du Mont-Royal,L'Île-Bizard–Sainte-Geneviève,45.558117,-73.76712,65,Medium,53,20,25,25,30,Q4
+31,Artisan Commercial Bakery,311814,Commercial Bakeries,1496 Avenue du Mont-Royal,Saint-Léonard,45.480796,-73.894172,66,Medium,71,20,25,25,30,Q4
+32,Excellence Bakery Inc.,311814,Commercial Bakeries,3582 Boulevard Saint-Laurent,Beaconsfield,45.691817,-73.489152,53,Medium,11,20,25,25,30,Q4
+33,Corporate Bakery Co.,311814,Commercial Bakeries,699 Rue Wellington,Verdun,45.616558,-73.904476,16,Medium,11,20,25,25,30,Q4
+34,Professional Baking Inc.,311814,Commercial Bakeries,5856 Avenue des Pins,Sainte-Anne-de-Bellevue,45.529201,-73.963144,15,Medium,28,20,25,25,30,Q4
+35,Montreal Bread Works,311814,Commercial Bakeries,5792 Rue Sainte-Catherine,Le Plateau-Mont-Royal,45.607405,-73.709223,84,Medium,41,20,25,25,30,Q4
+36,Golden Crust Bakery,311814,Commercial Bakeries,4219 Rue Notre-Dame,LaSalle,45.581882,-73.938765,31,Medium,47,20,25,25,30,Q4
+37,Industrial Bakery Inc.,311814,Commercial Bakeries,198 Rue Sainte-Catherine,Dorval,45.516657,-73.657524,25,Medium,25,20,25,25,30,Q4
+38,Golden Crust Bakery,311814,Commercial Bakeries,2512 Rue Sainte-Catherine,Beaconsfield,45.652238,-73.816402,17,Medium,29,20,25,25,30,Q4
+39,Distinguished Bakery Inc.,311814,Commercial Bakeries,9562 Rue Notre-Dame,Beaconsfield,45.504528,-73.867677,81,Medium,28,20,25,25,30,Q4
+40,Signature Bakery Co.,311814,Commercial Bakeries,8681 Avenue du Mont-Royal,LaSalle,45.511113,-73.93095,47,Medium,49,20,25,25,30,Q4
+41,Bakery Plus Inc.,311814,Commercial Bakeries,4737 Rue Sainte-Catherine,Baie-D'Urfé,45.522153,-73.502268,25,Medium,66,20,25,25,30,Q4
+42,Choice Bakery Co.,311814,Commercial Bakeries,4062 Rue Wellington,LaSalle,45.442907,-73.508406,56,Medium,16,20,25,25,30,Q4
+43,Finest Bakery Inc.,311814,Commercial Bakeries,9209 Rue Notre-Dame,Dorval,45.601395,-73.563217,74,Medium,11,20,25,25,30,Q4
+44,Montreal Master Bakers,311814,Commercial Bakeries,4549 Avenue des Pins,Verdun,45.698914,-73.487636,51,Medium,41,20,25,25,30,Q4
+45,Bakery Plus Inc.,311814,Commercial Bakeries,3171 Rue Wellington,Rivière-des-Prairies–Pointe-aux-Trembles,45.593599,-73.807095,33,Medium,57,20,25,25,30,Q4
+46,Daily Bread Co.,311814,Commercial Bakeries,6198 Rue Saint-Denis,Ahuntsic-Cartierville,45.655532,-73.543275,47,Medium,33,20,25,25,30,Q4
+47,Montreal Wholesale Bakery,311814,Commercial Bakeries,5540 Avenue du Mont-Royal,Kirkland,45.656769,-73.502826,52,Medium,93,20,25,25,30,Q4
+48,Heritage Bakery Ltd.,311814,Commercial Bakeries,5593 Boulevard Décarie,Rosemont–La Petite-Patrie,45.578399,-73.790136,39,Medium,27,20,25,25,30,Q4
+49,Excellence Bakery Inc.,311814,Commercial Bakeries,2870 Rue Notre-Dame,Dollard-des-Ormeaux,45.456634,-73.700146,49,Medium,89,20,25,25,30,Q4
+50,Signature Bakery Co.,311814,Commercial Bakeries,5700 Rue Wellington,LaSalle,45.698393,-73.890278,47,Medium,23,20,25,25,30,Q4
+51,Choice Bakery Co.,311814,Commercial Bakeries,6016 Rue Saint-Denis,Kirkland,45.504366,-73.599289,22,Medium,16,20,25,25,30,Q4
+52,Commercial Baking Ltd.,311814,Commercial Bakeries,4556 Rue Wellington,Sainte-Anne-de-Bellevue,45.619073,-73.822889,73,Medium,95,20,25,25,30,Q4
+53,Royal Bakery Inc.,311814,Commercial Bakeries,3437 Avenue des Pins,Ahuntsic-Cartierville,45.486909,-73.855565,65,Medium,63,20,25,25,30,Q4
+54,Supreme Bakery Co.,311814,Commercial Bakeries,4894 Rue Notre-Dame,Mercier–Hochelaga-Maisonneuve,45.672769,-73.758459,42,Medium,73,20,25,25,30,Q4
+55,Signature Bakery Co.,311814,Commercial Bakeries,9008 Rue Saint-Denis,Baie-D'Urfé,45.660609,-73.862606,33,Medium,13,20,25,25,30,Q4
+56,City Bakery Ltd.,311814,Commercial Bakeries,8209 Rue Wellington,Sainte-Anne-de-Bellevue,45.417052,-73.650809,58,Medium,39,20,25,25,30,Q4
+57,Eastern Bakery Ltd.,311814,Commercial Bakeries,1061 Rue Wellington,Ahuntsic-Cartierville,45.686639,-73.513419,38,Medium,55,20,25,25,30,Q4
+58,Luxury Bakery Inc.,311814,Commercial Bakeries,5089 Boulevard Saint-Laurent,Beaconsfield,45.69033,-73.488554,77,Medium,94,20,25,25,30,Q4
+59,Superior Bakery Co.,311814,Commercial Bakeries,3395 Boulevard Décarie,Côte-des-Neiges–Notre-Dame-de-Grâce,45.465364,-73.843078,32,Medium,34,20,25,25,30,Q4
+60,Montreal Wholesale Bakery,311814,Commercial Bakeries,5443 Avenue des Pins,Sainte-Anne-de-Bellevue,45.524461,-73.549451,60,Medium,33,20,25,25,30,Q4
+61,Fresh Bakery,311811,Retail Bakeries,1687 Rue Wellington,Sainte-Anne-de-Bellevue,45.470586,-73.637717,4,Medium,36,22,24,24,30,Q4
+62,Boulangerie 89,311811,Retail Bakeries,8097 Rue Wellington,Ville-Marie,45.495634,-73.815499,11,Medium,52,22,24,24,30,Q4
+63,Boulangerie 47,311811,Retail Bakeries,5802 Avenue des Pins,Rivière-des-Prairies–Pointe-aux-Trembles,45.615584,-73.698062,5,Medium,59,22,24,24,30,Q4
+64,Les Co'Pains d'abord,311811,Retail Bakeries,5626 Boulevard René-Lévesque,Outremont,45.661451,-73.514247,9,Medium,66,22,24,24,30,Q4
+65,Boulangerie 83,311811,Retail Bakeries,6656 Boulevard Saint-Laurent,Verdun,45.592089,-73.88092,16,Medium,25,22,24,24,30,Q4
+66,Olive et Gourmando,311811,Retail Bakeries,9359 Rue Sainte-Catherine,Dorval,45.424723,-73.527825,4,Medium,75,22,24,24,30,Q4
+67,Au Pain Doré,311811,Retail Bakeries,4147 Boulevard René-Lévesque,Baie-D'Urfé,45.537157,-73.637267,24,Medium,67,22,24,24,30,Q4
+68,Boulangerie 33,311811,Retail Bakeries,4778 Boulevard René-Lévesque,Sainte-Anne-de-Bellevue,45.659517,-73.852372,8,Medium,24,22,24,24,30,Q4
+69,Boulangerie 39,311811,Retail Bakeries,3125 Avenue du Mont-Royal,Villeray–Saint-Michel–Parc-Extension,45.514455,-73.915199,14,Medium,14,22,24,24,30,Q4
+70,Boulangerie 55,311811,Retail Bakeries,9184 Avenue Papineau,L'Île-Bizard–Sainte-Geneviève,45.542607,-73.550568,22,Medium,56,22,24,24,30,Q4
+71,Daily Bakery,311811,Retail Bakeries,6800 Boulevard Saint-Laurent,Pierrefonds-Roxboro,45.612859,-73.90944,15,Medium,39,22,24,24,30,Q4
+72,Boulangerie 82,311811,Retail Bakeries,5178 Boulevard Décarie,Montréal-Nord,45.42191,-73.776601,7,Medium,99,22,24,24,30,Q4
+73,Delicious Bakery,311811,Retail Bakeries,7561 Rue Wellington,Sainte-Anne-de-Bellevue,45.689168,-73.55365,14,Medium,10,22,24,24,30,Q4
+74,Boulangerie 64,311811,Retail Bakeries,7806 Rue Sainte-Catherine,Pointe-Claire,45.460255,-73.900217,24,Medium,57,22,24,24,30,Q4
+75,Boulangerie 10,311811,Retail Bakeries,3344 Rue Notre-Dame,Kirkland,45.463031,-73.503347,9,Medium,73,22,24,24,30,Q4
+76,Boulangerie 54,311811,Retail Bakeries,8131 Avenue des Pins,Saint-Léonard,45.570763,-73.668022,14,Medium,35,22,24,24,30,Q4
+77,Boulangerie 86,311811,Retail Bakeries,2745 Rue Wellington,Saint-Léonard,45.513232,-73.593498,16,Medium,78,22,24,24,30,Q4
+78,Family Bakery,311811,Retail Bakeries,6618 Rue Sainte-Catherine,Verdun,45.437306,-73.821179,18,Medium,94,22,24,24,30,Q4
+79,Fous Desserts,311811,Retail Bakeries,9950 Avenue des Pins,Ville-Marie,45.547307,-73.891667,7,Medium,32,22,24,24,30,Q4
+80,Boulangerie 46,311811,Retail Bakeries,2850 Rue Wellington,Verdun,45.423937,-73.495936,22,Medium,19,22,24,24,30,Q4
+81,Boulangerie 46,311811,Retail Bakeries,9208 Rue Sainte-Catherine,Ville-Marie,45.591499,-73.723401,7,Medium,13,22,24,24,30,Q4
+82,Les Glaceurs,311811,Retail Bakeries,9088 Rue Saint-Denis,Verdun,45.588597,-73.498615,22,Medium,33,22,24,24,30,Q4
+83,Fous Desserts,311811,Retail Bakeries,9761 Rue Saint-Denis,Saint-Laurent,45.606379,-73.687583,3,Medium,70,22,24,24,30,Q4
+84,Les Glaceurs,311811,Retail Bakeries,8003 Rue Wellington,Verdun,45.568229,-73.499853,3,Medium,42,22,24,24,30,Q4
+85,Boulangerie 6,311811,Retail Bakeries,4381 Avenue Papineau,Côte-des-Neiges–Notre-Dame-de-Grâce,45.598931,-73.874591,15,Medium,21,22,24,24,30,Q4
+86,Boulangerie 40,311811,Retail Bakeries,8946 Avenue du Mont-Royal,Baie-D'Urfé,45.439226,-73.970707,5,Medium,96,22,24,24,30,Q4
+87,Boulangerie 90,311811,Retail Bakeries,9818 Boulevard Décarie,Dorval,45.430645,-73.817322,4,Medium,16,22,24,24,30,Q4
+88,Boulangerie 31,311811,Retail Bakeries,9709 Rue Sainte-Catherine,Rivière-des-Prairies–Pointe-aux-Trembles,45.444268,-73.624664,13,Medium,38,22,24,24,30,Q4
+89,Boulangerie 74,311811,Retail Bakeries,7165 Rue Notre-Dame,Côte-des-Neiges–Notre-Dame-de-Grâce,45.421364,-73.766848,6,Medium,19,22,24,24,30,Q4
+90,Délices Place Du Parc,311811,Retail Bakeries,2787 Boulevard René-Lévesque,Kirkland,45.532807,-73.690055,19,Medium,45,22,24,24,30,Q4
+91,Boulangerie 26,311811,Retail Bakeries,9880 Avenue des Pins,Montréal-Nord,45.517885,-73.584029,7,Medium,21,22,24,24,30,Q4
+92,Boulangerie 23,311811,Retail Bakeries,2915 Avenue Papineau,Baie-D'Urfé,45.534408,-73.597056,11,Medium,39,22,24,24,30,Q4
+93,Duc de Lorraine,311811,Retail Bakeries,729 Boulevard René-Lévesque,Le Plateau-Mont-Royal,45.67174,-73.722321,24,Medium,22,22,24,24,30,Q4
+94,Boulangerie 22,311811,Retail Bakeries,396 Avenue des Pins,Ahuntsic-Cartierville,45.669702,-73.781507,11,Medium,28,22,24,24,30,Q4
+95,Boulangerie 2,311811,Retail Bakeries,718 Rue Sainte-Catherine,Côte-des-Neiges–Notre-Dame-de-Grâce,45.436473,-73.81715,22,Medium,92,22,24,24,30,Q4
+96,Boulangerie 39,311811,Retail Bakeries,7267 Avenue Papineau,Villeray–Saint-Michel–Parc-Extension,45.552977,-73.937525,14,Medium,34,22,24,24,30,Q4
+97,Boulangerie 25,311811,Retail Bakeries,3637 Avenue du Mont-Royal,LaSalle,45.570574,-73.871509,18,Medium,66,22,24,24,30,Q4
+98,Boulangerie 30,311811,Retail Bakeries,5306 Rue Sainte-Catherine,Rosemont–La Petite-Patrie,45.442905,-73.505226,9,Medium,23,22,24,24,30,Q4
+99,Boulangerie 27,311811,Retail Bakeries,5335 Rue Wellington,Ahuntsic-Cartierville,45.569363,-73.754819,13,Medium,84,22,24,24,30,Q4
+100,Duc de Lorraine,311811,Retail Bakeries,7242 Rue Wellington,Ville-Marie,45.443949,-73.907074,14,Medium,26,22,24,24,30,Q4
+101,Zaza Patisserie,311811,Retail Bakeries,1192 Rue Sainte-Catherine,Mercier–Hochelaga-Maisonneuve,45.439326,-73.937106,12,Medium,18,22,24,24,30,Q4
+102,Boulangerie 23,311811,Retail Bakeries,1541 Avenue Papineau,Rivière-des-Prairies–Pointe-aux-Trembles,45.648339,-73.619816,7,Medium,47,22,24,24,30,Q4
+103,Delicious Bakery,311811,Retail Bakeries,1366 Rue Notre-Dame,Le Plateau-Mont-Royal,45.696125,-73.789122,22,Medium,26,22,24,24,30,Q4
+104,Daily Bakery,311811,Retail Bakeries,9348 Rue Notre-Dame,Ville-Marie,45.684702,-73.477139,6,Medium,79,22,24,24,30,Q4
+105,Boulangerie 20,311811,Retail Bakeries,2924 Boulevard Saint-Laurent,Saint-Léonard,45.615373,-73.73435,24,Medium,48,22,24,24,30,Q4
+106,Boulangerie 7,311811,Retail Bakeries,4269 Rue Notre-Dame,Pointe-Claire,45.533024,-73.517759,15,Medium,67,22,24,24,30,Q4
+107,Boulangerie 64,311811,Retail Bakeries,9087 Rue Wellington,Kirkland,45.624882,-73.588731,11,Medium,48,22,24,24,30,Q4
+108,Boulangerie 62,311811,Retail Bakeries,505 Avenue Papineau,Villeray–Saint-Michel–Parc-Extension,45.626353,-73.682482,19,Medium,34,22,24,24,30,Q4
+109,Golden Bakery,311811,Retail Bakeries,134 Boulevard Saint-Laurent,Côte-des-Neiges–Notre-Dame-de-Grâce,45.661894,-73.865966,14,Medium,54,22,24,24,30,Q4
+110,Olive et Gourmando,311811,Retail Bakeries,4176 Boulevard Décarie,Baie-D'Urfé,45.691265,-73.957988,24,Medium,94,22,24,24,30,Q4
+111,Boulangerie 40,311811,Retail Bakeries,9443 Rue Saint-Denis,Baie-D'Urfé,45.69796,-73.942364,21,Medium,29,22,24,24,30,Q4
+112,Boulangerie 11,311811,Retail Bakeries,3377 Rue Saint-Denis,Le Plateau-Mont-Royal,45.431876,-73.89523,16,Medium,24,22,24,24,30,Q4
+113,Boulangerie 45,311811,Retail Bakeries,8054 Avenue Papineau,Pierrefonds-Roxboro,45.541817,-73.659945,5,Medium,25,22,24,24,30,Q4
+114,Boulangerie 88,311811,Retail Bakeries,1354 Rue Wellington,Mercier–Hochelaga-Maisonneuve,45.623759,-73.51322,18,Medium,81,22,24,24,30,Q4
+115,Olive et Gourmando,311811,Retail Bakeries,4469 Rue Wellington,Rosemont–La Petite-Patrie,45.524411,-73.925554,10,Medium,45,22,24,24,30,Q4
+116,Boulangerie 79,311811,Retail Bakeries,540 Avenue du Mont-Royal,Rosemont–La Petite-Patrie,45.544473,-73.79979,7,Medium,50,22,24,24,30,Q4
+117,Boulangerie 47,311811,Retail Bakeries,7103 Boulevard René-Lévesque,Kirkland,45.485385,-73.748847,19,Medium,82,22,24,24,30,Q4
+118,Boulangerie 81,311811,Retail Bakeries,2780 Rue Sainte-Catherine,Anjou,45.499763,-73.564965,18,Medium,38,22,24,24,30,Q4
+119,Family Bakery,311811,Retail Bakeries,5714 Boulevard Décarie,Verdun,45.448624,-73.941138,21,Medium,78,22,24,24,30,Q4
+120,Boulangerie 45,311811,Retail Bakeries,2872 Boulevard Décarie,Le Plateau-Mont-Royal,45.58789,-73.766696,20,Medium,14,22,24,24,30,Q4
+121,Boulangerie 50,311811,Retail Bakeries,2194 Boulevard René-Lévesque,Montréal-Nord,45.417646,-73.788004,17,Medium,58,22,24,24,30,Q4
+122,Boulangerie 55,311811,Retail Bakeries,3926 Boulevard Décarie,Dorval,45.519254,-73.597715,19,Medium,86,22,24,24,30,Q4
+123,Boulangerie 37,311811,Retail Bakeries,8703 Avenue des Pins,LaSalle,45.428418,-73.961221,3,Medium,30,22,24,24,30,Q4
+124,Tasty Bakery,311811,Retail Bakeries,2001 Avenue des Pins,Verdun,45.426349,-73.538992,7,Medium,14,22,24,24,30,Q4
+125,Boulangerie 4,311811,Retail Bakeries,7141 Rue Notre-Dame,Villeray–Saint-Michel–Parc-Extension,45.699025,-73.69673,23,Medium,46,22,24,24,30,Q4
+126,Boulangerie 56,311811,Retail Bakeries,7246 Boulevard Saint-Laurent,Saint-Léonard,45.629554,-73.787296,11,Medium,10,22,24,24,30,Q4
+127,Boulangerie 11,311811,Retail Bakeries,5566 Boulevard René-Lévesque,Ville-Marie,45.686675,-73.670851,3,Medium,41,22,24,24,30,Q4
+128,Boulangerie 29,311811,Retail Bakeries,9767 Boulevard Décarie,Dorval,45.4236,-73.842977,4,Medium,63,22,24,24,30,Q4
+129,Délices Place Du Parc,311811,Retail Bakeries,4364 Boulevard René-Lévesque,L'Île-Bizard–Sainte-Geneviève,45.633972,-73.714717,3,Medium,63,22,24,24,30,Q4
+130,Delicious Bakery,311811,Retail Bakeries,4859 Rue Wellington,LaSalle,45.690712,-73.934912,19,Medium,56,22,24,24,30,Q4
+131,Local Bread Shop,311811,Retail Bakeries,4674 Avenue des Pins,Rosemont–La Petite-Patrie,45.531955,-73.579819,13,Medium,60,22,24,24,30,Q4
+132,Boulangerie 83,311811,Retail Bakeries,6882 Rue Sainte-Catherine,Outremont,45.671914,-73.665196,8,Medium,59,22,24,24,30,Q4
+133,Boulangerie 7,311811,Retail Bakeries,7003 Avenue du Mont-Royal,Saint-Léonard,45.581076,-73.779956,21,Medium,72,22,24,24,30,Q4
+134,Boulangerie 77,311811,Retail Bakeries,7649 Rue Wellington,Pointe-Claire,45.620655,-73.700802,17,Medium,39,22,24,24,30,Q4
+135,Boulangerie 9,311811,Retail Bakeries,2181 Boulevard Décarie,Beaconsfield,45.590405,-73.540195,6,Medium,19,22,24,24,30,Q4
+136,Boulangerie 38,311811,Retail Bakeries,3580 Rue Saint-Denis,Kirkland,45.67871,-73.729021,22,Medium,97,22,24,24,30,Q4
+137,Boulangerie 75,311811,Retail Bakeries,5570 Rue Wellington,Lachine,45.4233,-73.663389,15,Medium,52,22,24,24,30,Q4
+138,Boulangerie 90,311811,Retail Bakeries,761 Boulevard René-Lévesque,Villeray–Saint-Michel–Parc-Extension,45.479642,-73.94131,18,Medium,84,22,24,24,30,Q4
+139,Boulangerie 4,311811,Retail Bakeries,9912 Boulevard René-Lévesque,Ahuntsic-Cartierville,45.45026,-73.653154,5,Medium,76,22,24,24,30,Q4
+140,Boulangerie 66,311811,Retail Bakeries,6778 Rue Wellington,Villeray–Saint-Michel–Parc-Extension,45.559418,-73.483714,21,Medium,28,22,24,24,30,Q4
+141,Boulangerie 5,311811,Retail Bakeries,4778 Boulevard Saint-Laurent,Dollard-des-Ormeaux,45.648319,-73.804008,24,Medium,30,22,24,24,30,Q4
+142,Tasty Bakery,311811,Retail Bakeries,524 Avenue des Pins,Côte-des-Neiges–Notre-Dame-de-Grâce,45.569127,-73.707444,16,Medium,43,22,24,24,30,Q4
+143,Boulangerie 58,311811,Retail Bakeries,7241 Boulevard Saint-Laurent,Pierrefonds-Roxboro,45.447337,-73.811649,17,Medium,95,22,24,24,30,Q4
+144,Boulangerie 33,311811,Retail Bakeries,2879 Boulevard Saint-Laurent,Le Plateau-Mont-Royal,45.43371,-73.534475,18,Medium,70,22,24,24,30,Q4
+145,Zaza Patisserie,311811,Retail Bakeries,1277 Rue Notre-Dame,LaSalle,45.410753,-73.537166,22,Medium,88,22,24,24,30,Q4
+146,Le Toledo,311811,Retail Bakeries,8718 Rue Saint-Denis,Saint-Laurent,45.565611,-73.508739,16,Medium,97,22,24,24,30,Q4
+147,Boulangerie 69,311811,Retail Bakeries,5127 Avenue du Mont-Royal,Beaconsfield,45.61895,-73.948206,5,Medium,32,22,24,24,30,Q4
+148,Boulangerie 4,311811,Retail Bakeries,8173 Avenue du Mont-Royal,Baie-D'Urfé,45.558386,-73.708622,20,Medium,47,22,24,24,30,Q4
+149,Boulangerie 27,311811,Retail Bakeries,8153 Rue Wellington,Pointe-Claire,45.564459,-73.85634,7,Medium,37,22,24,24,30,Q4
+150,Boulangerie 25,311811,Retail Bakeries,6230 Rue Wellington,Ville-Marie,45.415821,-73.81574,14,Medium,34,22,24,24,30,Q4
+151,Corner Bakery,311811,Retail Bakeries,9796 Boulevard René-Lévesque,Pointe-Claire,45.668253,-73.677268,12,Medium,76,22,24,24,30,Q4
+152,Boulangerie 86,311811,Retail Bakeries,6372 Avenue du Mont-Royal,L'Île-Bizard–Sainte-Geneviève,45.598159,-73.735413,17,Medium,95,22,24,24,30,Q4
+153,Pâtisserie Zébulon,311811,Retail Bakeries,6892 Avenue des Pins,Dorval,45.580184,-73.599826,21,Medium,51,22,24,24,30,Q4
+154,Boulangerie 41,311811,Retail Bakeries,5402 Avenue du Mont-Royal,Montréal-Nord,45.492295,-73.794828,4,Medium,68,22,24,24,30,Q4
+155,Local Bread Shop,311811,Retail Bakeries,3813 Rue Saint-Denis,Lachine,45.513268,-73.476877,3,Medium,62,22,24,24,30,Q4
+156,Boulangerie 17,311811,Retail Bakeries,5623 Rue Saint-Denis,Outremont,45.439517,-73.902042,18,Medium,13,22,24,24,30,Q4
+157,Tasty Bakery,311811,Retail Bakeries,3736 Rue Sainte-Catherine,Kirkland,45.656737,-73.935177,11,Medium,12,22,24,24,30,Q4
+158,Neighbourhood Bakery,311811,Retail Bakeries,9112 Avenue des Pins,Sainte-Anne-de-Bellevue,45.562108,-73.770698,8,Medium,75,22,24,24,30,Q4
+159,Boulangerie 42,311811,Retail Bakeries,5967 Rue Notre-Dame,Dollard-des-Ormeaux,45.57704,-73.512128,8,Medium,60,22,24,24,30,Q4
+160,Boulangerie 66,311811,Retail Bakeries,6317 Avenue du Mont-Royal,Verdun,45.64805,-73.613587,14,Medium,14,22,24,24,30,Q4
+161,Boulangerie 81,311811,Retail Bakeries,8916 Avenue du Mont-Royal,Mercier–Hochelaga-Maisonneuve,45.464243,-73.814924,3,Medium,29,22,24,24,30,Q4
+162,Boulangerie 83,311811,Retail Bakeries,6234 Rue Notre-Dame,Ville-Marie,45.480299,-73.921433,16,Medium,73,22,24,24,30,Q4
+163,Morning Bakery,311811,Retail Bakeries,6989 Avenue des Pins,Montréal-Nord,45.435314,-73.721887,13,Medium,12,22,24,24,30,Q4
+164,Boulangerie 73,311811,Retail Bakeries,10 Rue Sainte-Catherine,LaSalle,45.425029,-73.808332,7,Medium,32,22,24,24,30,Q4
+165,Fresh Bakery,311811,Retail Bakeries,5288 Boulevard René-Lévesque,Anjou,45.569187,-73.877117,4,Medium,93,22,24,24,30,Q4
+166,Boulangerie 82,311811,Retail Bakeries,2833 Rue Saint-Denis,Rivière-des-Prairies–Pointe-aux-Trembles,45.483846,-73.632434,11,Medium,84,22,24,24,30,Q4
+167,Perfect Bakery,311811,Retail Bakeries,3491 Rue Sainte-Catherine,Saint-Léonard,45.547218,-73.670888,19,Medium,78,22,24,24,30,Q4
+168,Boulangerie 15,311811,Retail Bakeries,1909 Boulevard Saint-Laurent,Verdun,45.65088,-73.487836,13,Medium,18,22,24,24,30,Q4
+169,Perfect Bakery,311811,Retail Bakeries,2561 Rue Saint-Denis,Kirkland,45.469451,-73.786593,10,Medium,73,22,24,24,30,Q4
+170,Golden Bakery,311811,Retail Bakeries,8008 Rue Notre-Dame,Saint-Laurent,45.576597,-73.550667,13,Medium,23,22,24,24,30,Q4
+171,Boulangerie 6,311811,Retail Bakeries,2899 Boulevard René-Lévesque,Sainte-Anne-de-Bellevue,45.641866,-73.559182,16,Medium,35,22,24,24,30,Q4
+172,Boulangerie 6,311811,Retail Bakeries,1066 Avenue des Pins,Beaconsfield,45.673281,-73.81874,20,Medium,49,22,24,24,30,Q4
+173,Boulangerie 36,311811,Retail Bakeries,6944 Rue Notre-Dame,Kirkland,45.541065,-73.615971,21,Medium,47,22,24,24,30,Q4
+174,Boulangerie 78,311811,Retail Bakeries,9185 Rue Wellington,Saint-Laurent,45.566537,-73.75624,19,Medium,75,22,24,24,30,Q4
+175,Croissant Croissant,311811,Retail Bakeries,4019 Boulevard René-Lévesque,LaSalle,45.56763,-73.517699,9,Medium,60,22,24,24,30,Q4
+176,Morning Bakery,311811,Retail Bakeries,1203 Boulevard Décarie,LaSalle,45.535143,-73.810264,10,Medium,51,22,24,24,30,Q4
+177,Pâtisserie Zébulon,311811,Retail Bakeries,5789 Boulevard René-Lévesque,Dollard-des-Ormeaux,45.450389,-73.575047,3,Medium,36,22,24,24,30,Q4
+178,Boulangerie 26,311811,Retail Bakeries,1121 Avenue des Pins,Baie-D'Urfé,45.638693,-73.902646,7,Medium,36,22,24,24,30,Q4
+179,Boulangerie 71,311811,Retail Bakeries,2646 Avenue des Pins,Montréal-Nord,45.625744,-73.962898,4,Medium,19,22,24,24,30,Q4
+180,Boulangerie 48,311811,Retail Bakeries,6029 Rue Wellington,Ahuntsic-Cartierville,45.553255,-73.595136,17,Medium,97,22,24,24,30,Q4
+181,Brewery Montreal,312120,Breweries,3720 Boulevard Décarie,Côte-des-Neiges–Notre-Dame-de-Grâce,45.585148,-73.723833,14,Medium,38,20,25,35,20,Q4
+182,Wills,312120,Breweries,4226 Rue Saint-Denis,Pointe-Claire,45.476483,-73.611651,36,Medium,45,20,25,35,20,Q4
+183,Craft Beer Co.,312120,Breweries,2117 Rue Saint-Denis,Pierrefonds-Roxboro,45.56739,-73.851582,29,Medium,20,20,25,35,20,Q4
+184,Montreal Brewing Co.,312120,Breweries,6167 Rue Wellington,Kirkland,45.688132,-73.805313,56,Medium,99,20,25,35,20,Q4
+185,Modern Brewery,312120,Breweries,7784 Rue Sainte-Catherine,Outremont,45.684712,-73.901791,71,Medium,91,20,25,35,20,Q4
+186,Craft Beer Co.,312120,Breweries,828 Boulevard René-Lévesque,Kirkland,45.587322,-73.970764,52,Medium,85,20,25,35,20,Q4
+187,Silo,312120,Breweries,3877 Boulevard Décarie,Saint-Laurent,45.439642,-73.511437,40,Medium,18,20,25,35,20,Q4
+188,Signature Brewery,312120,Breweries,3369 Boulevard René-Lévesque,Baie-D'Urfé,45.532998,-73.604413,20,Medium,32,20,25,35,20,Q4
+189,Avant-Garde,312120,Breweries,3418 Rue Wellington,Lachine,45.445615,-73.859688,45,Medium,63,20,25,35,20,Q4
+190,Signature Brewery,312120,Breweries,4022 Rue Notre-Dame,Saint-Laurent,45.652872,-73.810605,64,Medium,49,20,25,35,20,Q4
+191,Brewery Montreal,312120,Breweries,9525 Boulevard Saint-Laurent,L'Île-Bizard–Sainte-Geneviève,45.586289,-73.786554,18,Medium,83,20,25,35,20,Q4
+192,Brasserie Harricana,312120,Breweries,7971 Rue Sainte-Catherine,Montréal-Nord,45.642828,-73.977638,72,Medium,34,20,25,35,20,Q4
+193,Signature Brewery,312120,Breweries,8071 Rue Notre-Dame,Kirkland,45.66042,-73.50929,43,Medium,26,20,25,35,20,Q4
+194,Modern Brewery,312120,Breweries,1206 Avenue du Mont-Royal,Dollard-des-Ormeaux,45.58025,-73.963248,33,Medium,34,20,25,35,20,Q4
+195,Boutique Brewery,312120,Breweries,5976 Boulevard Saint-Laurent,Anjou,45.554527,-73.766348,42,Medium,58,20,25,35,20,Q4
+196,Independent Brewery,312120,Breweries,2714 Rue Saint-Denis,Lachine,45.636344,-73.838431,37,Medium,94,20,25,35,20,Q4
+197,Avant-Garde,312120,Breweries,3433 Rue Sainte-Catherine,Montréal-Nord,45.5594,-73.482474,58,Medium,29,20,25,35,20,Q4
+198,Montreal Brewing Co.,312120,Breweries,9917 Boulevard Décarie,Dollard-des-Ormeaux,45.530241,-73.936472,58,Medium,80,20,25,35,20,Q4
+199,Premium Brewery,312120,Breweries,2483 Avenue des Pins,Saint-Léonard,45.582662,-73.945791,65,Medium,92,20,25,35,20,Q4
+200,Local Brewery,312120,Breweries,4525 Avenue Papineau,Kirkland,45.511322,-73.741202,39,Medium,25,20,25,35,20,Q4
+201,Brewskey,312120,Breweries,5491 Rue Wellington,Rivière-des-Prairies–Pointe-aux-Trembles,45.573804,-73.946489,56,Medium,75,20,25,35,20,Q4
+202,Montreal Brewing Co.,312120,Breweries,5798 Avenue du Mont-Royal,Kirkland,45.564992,-73.734645,60,Medium,72,20,25,35,20,Q4
+203,L'Isle de Garde,312120,Breweries,8039 Boulevard Saint-Laurent,Pierrefonds-Roxboro,45.439865,-73.809475,12,Medium,41,20,25,35,20,Q4
+204,Signature Brewery,312120,Breweries,6306 Boulevard Décarie,Saint-Laurent,45.488968,-73.52231,64,Medium,41,20,25,35,20,Q4
+205,L'Isle de Garde,312120,Breweries,833 Rue Sainte-Catherine,Kirkland,45.617632,-73.643949,66,Medium,76,20,25,35,20,Q4
+206,Avant-Garde,312120,Breweries,8520 Rue Sainte-Catherine,Côte-des-Neiges–Notre-Dame-de-Grâce,45.477012,-73.637335,63,Medium,76,20,25,35,20,Q4
+207,Brasserie Harricana,312120,Breweries,7971 Rue Saint-Denis,Le Plateau-Mont-Royal,45.667364,-73.696072,41,Medium,55,20,25,35,20,Q4
+208,Mellön,312120,Breweries,8357 Avenue Papineau,Dollard-des-Ormeaux,45.650764,-73.777436,63,Medium,94,20,25,35,20,Q4
+209,Fresh Fruit Wholesalers,413150,Fruit & Vegetable Wholesalers,6151 Avenue Papineau,Montréal-Nord,45.527854,-73.814765,93,High,312,18,25,40,17,Q3
+210,Garden Fresh Wholesalers,413150,Fruit & Vegetable Wholesalers,3696 Rue Notre-Dame,Rivière-des-Prairies–Pointe-aux-Trembles,45.623412,-73.547455,144,High,452,18,25,40,17,Q3
+211,Fresh Choice Distributors,413150,Fruit & Vegetable Wholesalers,8706 Rue Sainte-Catherine,Villeray–Saint-Michel–Parc-Extension,45.579082,-73.765073,148,High,352,18,25,40,17,Q3
+212,Canadawide Fruit Wholesalers Inc.,413150,Fruit & Vegetable Wholesalers,1410 Boulevard René-Lévesque,Sainte-Anne-de-Bellevue,45.591181,-73.808708,138,High,445,18,25,40,17,Q3
+213,Natural Foods Distributors,413150,Fruit & Vegetable Wholesalers,1280 Rue Sainte-Catherine,Mercier–Hochelaga-Maisonneuve,45.65089,-73.803952,72,High,477,18,25,40,17,Q3
+214,Harvest Produce Inc.,413150,Fruit & Vegetable Wholesalers,1388 Avenue Papineau,Le Plateau-Mont-Royal,45.473658,-73.482981,43,High,130,18,25,40,17,Q3
+215,Montreal Wholesale Produce,413150,Fruit & Vegetable Wholesalers,8174 Boulevard René-Lévesque,Saint-Léonard,45.661856,-73.73141,147,High,273,18,25,40,17,Q3
+216,Quebec Produce Co.,413150,Fruit & Vegetable Wholesalers,2574 Avenue Papineau,Kirkland,45.533312,-73.968541,28,High,89,18,25,40,17,Q3
+217,Harvest Produce Inc.,413150,Fruit & Vegetable Wholesalers,7369 Rue Wellington,Dollard-des-Ormeaux,45.612665,-73.774699,41,High,284,18,25,40,17,Q3
+218,Elite Produce Co.,413150,Fruit & Vegetable Wholesalers,8997 Avenue Papineau,Dollard-des-Ormeaux,45.532294,-73.912539,94,High,375,18,25,40,17,Q3
+219,Farm Fresh Distributors,413150,Fruit & Vegetable Wholesalers,5476 Rue Notre-Dame,L'Île-Bizard–Sainte-Geneviève,45.675147,-73.919947,60,High,471,18,25,40,17,Q3
+220,Healthy Produce Ltd.,413150,Fruit & Vegetable Wholesalers,7142 Avenue du Mont-Royal,Baie-D'Urfé,45.429481,-73.773323,141,High,125,18,25,40,17,Q3
+221,Eco Produce Co.,413150,Fruit & Vegetable Wholesalers,2075 Avenue Papineau,LaSalle,45.469862,-73.974392,76,High,336,18,25,40,17,Q3
+222,Montreal Wholesale Produce,413150,Fruit & Vegetable Wholesalers,6137 Boulevard Saint-Laurent,Sainte-Anne-de-Bellevue,45.663428,-73.675319,72,High,443,18,25,40,17,Q3
+223,Harvest Produce Inc.,413150,Fruit & Vegetable Wholesalers,7644 Avenue Papineau,Beaconsfield,45.675179,-73.766427,141,High,95,18,25,40,17,Q3
+224,Montreal Wholesale Produce,413150,Fruit & Vegetable Wholesalers,1387 Boulevard Saint-Laurent,Saint-Léonard,45.42362,-73.895195,70,High,230,18,25,40,17,Q3
+225,Fresh Fruit Wholesalers,413150,Fruit & Vegetable Wholesalers,8341 Boulevard Saint-Laurent,Verdun,45.584914,-73.854872,30,High,345,18,25,40,17,Q3
+226,Continental Produce Co.,413150,Fruit & Vegetable Wholesalers,8379 Avenue des Pins,Saint-Laurent,45.536786,-73.513088,58,High,281,18,25,40,17,Q3
+227,Seasonal Produce Co.,413150,Fruit & Vegetable Wholesalers,6767 Boulevard René-Lévesque,Villeray–Saint-Michel–Parc-Extension,45.574257,-73.737214,88,High,361,18,25,40,17,Q3
+228,Metro Fruit Distributors,413150,Fruit & Vegetable Wholesalers,1763 Rue Sainte-Catherine,Anjou,45.472333,-73.964097,100,High,495,18,25,40,17,Q3
+229,Metro Fruit Distributors,413150,Fruit & Vegetable Wholesalers,154 Rue Sainte-Catherine,Rosemont–La Petite-Patrie,45.687019,-73.901117,92,High,250,18,25,40,17,Q3
+230,Organic Produce Co.,413150,Fruit & Vegetable Wholesalers,61 Rue Notre-Dame,Saint-Laurent,45.511947,-73.769475,123,High,91,18,25,40,17,Q3
+231,Seasonal Produce Co.,413150,Fruit & Vegetable Wholesalers,1253 Avenue Papineau,Montréal-Nord,45.543308,-73.941274,127,High,221,18,25,40,17,Q3
+232,Montreal Produce Distributors,413150,Fruit & Vegetable Wholesalers,6668 Rue Sainte-Catherine,Montréal-Nord,45.690633,-73.977321,38,High,150,18,25,40,17,Q3
+233,Prime Produce Ltd.,413150,Fruit & Vegetable Wholesalers,3005 Boulevard Décarie,Pointe-Claire,45.436559,-73.51217,36,High,379,18,25,40,17,Q3
+234,Global MJL,413150,Fruit & Vegetable Wholesalers,4108 Boulevard Décarie,Anjou,45.610262,-73.714137,81,High,129,18,25,40,17,Q3
+235,Eco Produce Co.,413150,Fruit & Vegetable Wholesalers,2709 Rue Saint-Denis,Outremont,45.663154,-73.606565,100,High,264,18,25,40,17,Q3
+236,Supreme Produce Inc.,413150,Fruit & Vegetable Wholesalers,5320 Rue Notre-Dame,Montréal-Nord,45.61999,-73.655012,44,High,138,18,25,40,17,Q3
+237,Seasonal Produce Co.,413150,Fruit & Vegetable Wholesalers,8681 Rue Wellington,Dollard-des-Ormeaux,45.597533,-73.626481,128,High,75,18,25,40,17,Q3
+238,Fresh Valley Distributors,413150,Fruit & Vegetable Wholesalers,4807 Avenue Papineau,Verdun,45.421434,-73.620157,45,High,135,18,25,40,17,Q3
+239,Continental Produce Co.,413150,Fruit & Vegetable Wholesalers,8821 Rue Notre-Dame,Rivière-des-Prairies–Pointe-aux-Trembles,45.675492,-73.962688,26,High,186,18,25,40,17,Q3
+240,Global MJL,413150,Fruit & Vegetable Wholesalers,9019 Rue Notre-Dame,Saint-Laurent,45.465854,-73.921206,101,High,272,18,25,40,17,Q3
+241,Fresh Choice Distributors,413150,Fruit & Vegetable Wholesalers,4498 Avenue du Mont-Royal,Saint-Léonard,45.659992,-73.54928,122,High,322,18,25,40,17,Q3
+242,Quebec Produce Co.,413150,Fruit & Vegetable Wholesalers,2668 Boulevard Décarie,L'Île-Bizard–Sainte-Geneviève,45.598549,-73.794004,64,High,147,18,25,40,17,Q3
+243,Global MJL,413150,Fruit & Vegetable Wholesalers,4279 Rue Notre-Dame,Dorval,45.66665,-73.709565,127,High,88,18,25,40,17,Q3

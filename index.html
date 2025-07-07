@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Montreal Agrifood Feedstock Generators</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Header -->
+        <header class="app-header">
+            <h1>Montreal Agrifood Feedstock Generators</h1>
+            <div class="header-controls">
+                <div class="search-container">
+                    <input type="text" id="searchInput" class="form-control" placeholder="Search businesses...">
+                </div>
+                <div class="view-toggle">
+                    <button id="mapViewBtn" class="btn btn--primary">Map View</button>
+                    <button id="tableViewBtn" class="btn btn--secondary">Table View</button>
+                </div>
+            </div>
+        </header>
+
+        <!-- Main Content -->
+        <main class="app-main">
+            <!-- Sidebar -->
+            <aside class="sidebar">
+                <div class="sidebar-section">
+                    <h3>Summary Statistics</h3>
+                    <div class="stats-grid">
+                        <div class="stat-item">
+                            <span class="stat-label">Total Businesses</span>
+                            <span class="stat-value" id="totalBusinesses">0</span>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-label">Visible Businesses</span>
+                            <span class="stat-value" id="visibleBusinesses">0</span>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-label">Annual Waste (tonnes)</span>
+                            <span class="stat-value" id="totalWaste">0</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="sidebar-section">
+                    <h3>Category Filters</h3>
+                    <div class="filter-group" id="categoryFilters">
+                        <!-- Filters will be populated by JavaScript -->
+                    </div>
+                </div>
+
+                <div class="sidebar-section">
+                    <h3>Legend</h3>
+                    <div class="legend" id="mapLegend">
+                        <!-- Legend will be populated by JavaScript -->
+                    </div>
+                </div>
+
+                <div class="sidebar-section">
+                    <h3>Peak Season</h3>
+                    <div class="seasonal-info">
+                        <div class="season-indicator">
+                            <span class="season-label">Q3 (Jul-Sep)</span>
+                            <span class="season-note">Peak waste generation period</span>
+                        </div>
+                        <div class="season-chart">
+                            <div class="season-bar" data-season="Q1" style="height: 15%">
+                                <span class="season-percent">15%</span>
+                            </div>
+                            <div class="season-bar" data-season="Q2" style="height: 25%">
+                                <span class="season-percent">25%</span>
+                            </div>
+                            <div class="season-bar active" data-season="Q3" style="height: 45%">
+                                <span class="season-percent">45%</span>
+                            </div>
+                            <div class="season-bar" data-season="Q4" style="height: 15%">
+                                <span class="season-percent">15%</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </aside>
+
+            <!-- Map Container -->
+            <div class="map-container" id="mapContainer">
+                <div id="map"></div>
+            </div>
+
+            <!-- Table Container -->
+            <div class="table-container hidden" id="tableContainer">
+                <div class="table-controls">
+                    <button id="exportBtn" class="btn btn--outline">Export Data</button>
+                </div>
+                <div class="table-wrapper">
+                    <table id="businessTable" class="data-table">
+                        <thead>
+                            <tr>
+                                <th data-sort="name">Business Name</th>
+                                <th data-sort="category">Category</th>
+                                <th data-sort="borough">Borough</th>
+                                <th data-sort="employees">Employees</th>
+                                <th data-sort="waste_level">Waste Level</th>
+                                <th data-sort="annual_waste_tonnes">Annual Waste (tonnes)</th>
+                                <th data-sort="peak_season">Peak Season</th>
+                            </tr>
+                        </thead>
+                        <tbody id="businessTableBody">
+                            <!-- Table rows will be populated by JavaScript -->
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <!-- Scripts -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
